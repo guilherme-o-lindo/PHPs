@@ -4,7 +4,7 @@ Repositório com uma coleção de exercícios de lógica de programação desenv
 
 Os exercícios têm como objetivo praticar conceitos fundamentais de programação e desenvolver o raciocínio lógico através de diferentes problemas e situações.
 
-## 📚 Conteúdos praticados
+## 📚 Conteúdos usados
 
 - Variáveis
 - Operadores matemáticos e lógicos
