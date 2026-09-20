@@ -6,14 +6,10 @@ Os exercícios têm como objetivo praticar conceitos fundamentais de programaç�
 
 ## 📚 Conteúdos praticados
 
-- Variáveis e constantes
+- Variáveis
 - Operadores matemáticos e lógicos
 - Estruturas condicionais (`if`, `else`, `elseif`)
-- Estruturas de repetição (`for`, `while`, `do while`)
-- Arrays
-- Funções
-- Manipulação de strings
-- Entrada e saída de dados
+- Estruturas de repetição (`for`, `while`)
 - Operações matemáticas
 - Resolução de problemas lógicos
 
